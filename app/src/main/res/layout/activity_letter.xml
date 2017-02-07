@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_letter"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="jpa.utils.jhy.sohyun2.LetterActivity">
+
+    <ScrollView
+        android:id="@+id/LETTER"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="50dp"
+        android:background="@drawable/back"
+        android:padding="25dp">
+        <TextView
+            android:id="@+id/TEXT"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#ffffff" />
+    </ScrollView>
+
+</RelativeLayout>

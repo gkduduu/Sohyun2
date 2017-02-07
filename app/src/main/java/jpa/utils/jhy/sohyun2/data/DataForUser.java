@@ -1,0 +1,34 @@
+package jpa.utils.jhy.sohyun2.data;
+
+/**
+ * Created by hayoung on 2017. 2. 6..
+ * gkduduu@naver.com
+ */
+
+public class DataForUser {
+    String id;
+    String pw;
+
+    public DataForUser(){}
+
+    public DataForUser(String id, String pw) {
+        this.id = id;
+        this.pw = pw;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getPw() {
+        return pw;
+    }
+
+    public void setPw(String pw) {
+        this.pw = pw;
+    }
+}

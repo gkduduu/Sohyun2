@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "201946525231",
+    "firebase_url": "https://sohyun2-fa891.firebaseio.com",
+    "project_id": "sohyun2-fa891",
+    "storage_bucket": "sohyun2-fa891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201946525231:android:37c54a5d622bec57",
+        "android_client_info": {
+          "package_name": "jpa.utils.jhy.sohyun2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201946525231-3lpgeqnr1omha270a2tuhsig3fl0941n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ef8j-18Ws7IL-EZtpI1iR0m5IMCZ1BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
